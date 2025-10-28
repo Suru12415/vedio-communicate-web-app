@@ -91,9 +91,9 @@ Zoom/
    ```
 3. Create a .env file inside backend/ and add:
   ```bash
-    PORT=8000
+    
     MONGO_URI=mongodb+srv://<your-username>:<your-password>@cluster0.mongodb.net/zoom
-    JWT_SECRET=your_jwt_secret
+    PORT=8000
    ```
 
 4.Start the backend server:
