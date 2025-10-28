@@ -45,7 +45,7 @@ It enables users to **create/join video meetings**, **chat in real time**, and *
 
 ## 📁 Folder Structure
 
-Zoom/
+``` Zoom/
 ├── backend/
 │ ├── src/
 │ │ ├── app.js
@@ -73,7 +73,7 @@ Zoom/
 │
 └── README.md
 
-
+```
 
 ---
 
